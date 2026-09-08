@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| PC Hardware Configuration         | <a href="https://tidiane-hack.github.io/Cybersecurity-workstation-build/">Detection Lab</a>|
+| PC Hardware Configuration         | <a href="https://tidiane-hack.github.io/Cybersecurity-workstation-build/">Cybersecurity-workstation-build</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
