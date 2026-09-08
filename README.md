@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Houston, transferring from L
 
 ## Objective
 
-My goal is a career in security engineering. I'm building toward that by developing hands-on skills outside the classroom. configuring professional-grade hardware, setting up virtual lab environments, and practicing on platforms like TryHackMe and HackTheBox.
+My goal is a career in security engineering. I'm building toward that by developing hands-on skills outside the classroom - Configuring professional-grade hardware, setting up virtual lab environments, and practicing on platforms like TryHackMe and HackTheBox.
 Every project I work on gets documented here.
 
 ## Skills
