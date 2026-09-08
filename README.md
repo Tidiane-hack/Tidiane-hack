@@ -24,8 +24,8 @@ Every project I work on gets documented here.
 </div> 
 
 
-## Certifications
-
-
 ## Projects
 - <a href="https://tidiane-hack.github.io/Cybersecurity-workstation-build/">Cybersecurity-workstation-build</a>
+
+
+## Certifications
