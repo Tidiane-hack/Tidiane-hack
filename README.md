@@ -50,4 +50,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- PC Hardware Configuration
+- <a href="https://tidiane-hack.github.io/Cybersecurity-workstation-build/">Cybersecurity-workstation-build</a>
